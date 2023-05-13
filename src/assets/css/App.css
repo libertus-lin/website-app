@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.Notfound {
+    color: rgb(168, 166, 166);
+    text-align: center;
+    display: block;
+    margin: 200px auto;
+}
+
+.Logo-Navbar {
+    color: white;
+}
